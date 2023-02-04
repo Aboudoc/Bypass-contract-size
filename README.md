@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Reentrancy Attack</h3>
+<h3 align="center">Bypass Contact Size</h3>
 
   <p align="center">
     project_description
@@ -144,7 +144,7 @@ Set `pwned` to true. The fallback function in `NoContract` will be called from y
 
 Contract size is zero while the code inside constructor is executing.
 
-Deploying a new contract that calls target Inside pwn allows to bypass contract size.
+Deploying a new contract that calls target inside pwn allows to bypass contract size.
 
 ### Further reading
 
